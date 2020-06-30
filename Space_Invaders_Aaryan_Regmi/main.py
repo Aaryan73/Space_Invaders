@@ -254,7 +254,7 @@ pygame.quit()    #this is for quitting the pygame window and always needs to be 
 
 '''
 
-NOW THIS IS HOW YOY MAKE SPACE INVADER GAME :)
+NOW THIS IS HOW YOU MAKE SPACE INVADER GAME :)
 
 '''
 
